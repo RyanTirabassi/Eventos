@@ -15,6 +15,7 @@
 > - E-mail do administrador
 > - Senha de acesso para os participantes
 > - Dia e hora
+
 > Ao final, basta clicar no botão **"Salvar Evento"** e pronto! Seu evento estará registrado.
 
 ## 🛠️ Tecnologias Utilizadas
